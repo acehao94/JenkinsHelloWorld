@@ -1,0 +1,3 @@
+5u54u5u67it43y565ii67j6
+
+JENKINS_URL/job/HelloWorld/build?token=TOKEN_NAME
